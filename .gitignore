@@ -1,0 +1,5 @@
+.venv/
+venv/
+__pychche__/
+*.__pychche__
+.vscode/

@@ -1,0 +1,11 @@
+{
+    "summary": {
+        "total_logs_analyzed": 5,
+        "sqli_incidents_found": 0,
+        "brute_force_ips_flagged": 1
+    },
+    "brute_force_suspects": {
+        "10.0.0.5": 5
+    },
+    "sqli_alerts": []
+}
